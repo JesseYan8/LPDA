@@ -1,0 +1,14 @@
+{
+  "first_angle": 0,
+  "first_xy_mm": [
+    6.0,
+    6.0
+  ],
+  "second_angle": 180,
+  "second_xy_mm": [
+    53.0,
+    38.0
+  ],
+  "grid_mm": 0.5,
+  "clearance_mm": 5.0
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "P02_lower_half",
+    "qty": 2,
+    "bbox_mm": [
+      194.4,
+      194.4,
+      28.0
+    ],
+    "volume_mm3": 126565.38214429344,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "UNCHANGED from V1.2.1; 平底朝下；承托唇不可削薄；贴 2 mm 软垫。"
+  },
+  {
+    "id": "P03_fixed_mast",
+    "qty": 1,
+    "bbox_mm": [
+      124.0,
+      124.0,
+      200.0
+    ],
+    "volume_mm3": 229672.7361278908,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "UNCHANGED from V1.2.1; 竖直打印；两层固定台肩，不含调节孔；底部建议 5–6 mm brim。"
+  },
+  {
+    "id": "P04_anchor_base",
+    "qty": 1,
+    "bbox_mm": [
+      148.0,
+      148.0,
+      16.0
+    ],
+    "volume_mm3": 82134.61200569924,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "UNCHANGED from V1.2.1; 底面朝下；至少两个分开的锚固点；不是配重底座。"
+  },
+  {
+    "id": "P05_pressure_shoe",
+    "qty": 4,
+    "bbox_mm": [
+      20.0,
+      20.0,
+      18.0
+    ],
+    "volume_mm3": 2319.9173848908586,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "UNCHANGED from V1.2.1; 大平面朝下、导柱朝上；粘 1 mm 软垫。"
+  },
+  {
+    "id": "P06_M4_knob",
+    "qty": 4,
+    "bbox_mm": [
+      23.88,
+      23.88,
+      6.4
+    ],
+    "volume_mm3": 2446.2608091074567,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "UNCHANGED from V1.2.1; 头部陷入六角槽；背面另装一颗标准 M4 保持螺母。全牙螺钉；先在台面组装旋钮。"
+  },
+  {
+    "id": "P01_upper_carrier",
+    "qty": 2,
+    "bbox_mm": [
+      165.4,
+      165.4,
+      38.0
+    ],
+    "volume_mm3": 72405.317636345,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "Flat underside down. No moving upper jaw."
+  },
+  {
+    "id": "P07_four_hole_cassette",
+    "qty": 4,
+    "bbox_mm": [
+      117.83,
+      78.3,
+      15.0
+    ],
+    "volume_mm3": 28226.810960916366,
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "valid": true,
+    "print_note": "Back side down, four raised lands upwards. No support inside holes."
+  }
+]

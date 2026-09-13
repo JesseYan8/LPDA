@@ -1,0 +1,27 @@
+{
+  "release": "V1.3 Hybrid",
+  "formal_print_parts": 18,
+  "formal_types": 7,
+  "screws_total": 40,
+  "new_prints_from_V121": 6,
+  "geometry_failure_records": 0,
+  "retained_STEP_symmetric_difference_mm3": {
+    "P02_lower_half": 0.0,
+    "P03_fixed_mast": 0.0,
+    "P04_anchor_base": 0.0,
+    "P05_pressure_shoe": 0.0,
+    "P06_M4_knob": 0.0
+  },
+  "plate_quantity_check": {
+    "P02_lower_half": 2,
+    "P01_upper_carrier": 2,
+    "P07_four_hole_cassette": 4,
+    "P04_anchor_base": 1,
+    "P03_fixed_mast": 1,
+    "P05_pressure_shoe": 4,
+    "P06_M4_knob": 4
+  },
+  "local_HTML_broken_links": [],
+  "motion_checks_include_preassembled_nylon": true,
+  "no_physical_or_slicer_validation": true
+}

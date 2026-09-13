@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>V1.3 实际几何与装配复核记录</title>
+<style>body{margin:0;background:#eef4f5;color:#163a46;font-family:system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif;line-height:1.8}main{max-width:1060px;margin:26px auto;background:white;padding:36px 44px;border-radius:12px}h1{font-size:31px;line-height:1.35}h2{margin-top:32px;font-size:22px;border-bottom:2px solid #deebed;padding-bottom:6px}h3{font-size:18px}a{color:#087782}table{width:100%;border-collapse:collapse;font-size:14px;margin:16px 0}th,td{padding:9px 11px;border-bottom:1px solid #dbe8eb;vertical-align:top;text-align:left}th{background:#e7f0f2}img{max-width:100%;height:auto}figure{margin:22px 0}figcaption,.muted{font-size:13px;color:#59717c}.note,.warn{padding:15px 20px;border-left:5px solid #157d80;background:#edf8f7;margin:20px 0}.warn{border-color:#b68434;background:#fff5e4}code{background:#edf2f4;padding:2px 4px}pre{background:#edf2f4;padding:15px;overflow-x:auto}li{margin:9px 0}nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px}@media print{body{background:white}main{padding:0;margin:0;max-width:none}h2{break-after:avoid}tr,figure,.note,.warn{break-inside:avoid}a{color:inherit}}</style>
+</head>
+<body><main>
+<p class="muted">SPECTRUM_SENSING / LPDA MOUNT V1.3 HYBRID / 2026-09-12</p>
+<h1>V1.3 实际几何与装配复核记录</h1>
+<nav><a href="Assembly_Guide_V1_3_zh.html">装配说明</a><a href="BOM_V1_3_zh.html">采购清单</a><a href="Validation_V1_3_zh.html">复核记录</a></nav>
+
+<div class="note"><strong>当前几何脚本未检出失败项。</strong>该结论仅覆盖下面明确列出的模型、工具包络、位置与运动检查，不是已打印实物或结构标准认证。</div>
+<p>复核对象是本次发布的实际 STL/STEP/3MF 与源代码，不是只看渲染图。旧 V1.2.1 参考 STEP 一并放在 reference/v121，便于独立确认哪些实体被保留。</p>
+<h2>1. 设计过程中修正的干涉</h2>
+<p>首个混合草案的原馈线桥与新安装板及其下落路线重叠。已在局部梁中让出移动通道，并把软绑带桥移向中央，最后重跑静态、位置及落入检查。两个 M4 补偿槽使用闭口结构，端部及螺栓列保留连续材料；删除右上方无用面料时未删除两螺栓列及下部承力带。</p>
+<h2>2. 已实际执行的项目</h2>
+<table>
+<thead><tr><th>项目</th><th>覆盖范围</th><th>结果与解释</th></tr></thead>
+<tbody>
+<tr><td>静态装配</td><td>7种打印几何及装配五金／软垫</td><td>非预期正体积相交为0；判断阈值0.03 mm³</td></tr>
+<tr><td>局部孔余量</td><td>4孔×9偏置=36组</td><td>M3杆与窗口无干涉；OD9背垫圈最小名义承压接触面积约37.44 mm²</td></tr>
+<tr><td>整板安装余量</td><td>x=-10/0/+10、z=-18/0/+18，共9组</td><td>安装板、M4杆、后垫圈／螺母空间无检出干涉</td></tr>
+<tr><td>新增螺丝刀</td><td>8组M4接口＋16组M3，24组</td><td>示例相邻PCB已装；名义位置下杆／手柄无碰撞</td></tr>
+<tr><td>沿用结构工具</td><td>12结构位置×2工具规格，24组</td><td>依照底座→下框→上框的分阶段顺序检查</td></tr>
+<tr><td>下夹压块</td><td>4方向×4位置，16个保守扫掠包络</td><td>旧顶装压块路线在新上框存在时无碰撞</td></tr>
+<tr><td>尼龙螺母入口</td><td>16个背向进入保守扫掠</td><td>外形扫掠无碰撞；不等同真实手指／扳手握持</td></tr>
+<tr><td>PCB连安装板落入</td><td>4方向×6高度，24个采样姿态</td><td>含预装尼龙五金与孔周软垫；另三副完整示例天线已装，目标下夹退开2 mm，无检出碰撞；不是连续无碰撞证明</td></tr>
+<tr><td>单安装板落入</td><td>0…120 mm，5 mm间隔</td><td>一方向代表例无碰撞，依对称复制；不含任意新板形</td></tr>
+<tr><td>M3螺钉长度</td><td>6种名义板厚</td><td>全厚螺母均覆盖，最小余长1.1 mm</td></tr>
+<tr><td>示例RF线</td><td>4mm直径，固定分段路线</td><td>未检出打印结构干涉；最小弯曲半径未验证</td></tr>
+<tr><td>网格/STEP</td><td>7种STL，18件STEP回读</td><td>封闭、法向一致、单连通；回读实体与源几何体积一致</td></tr>
+<tr><td>复用件</td><td>5类原版STEP与新几何双向差</td><td>对称几何差为0；确认V1.2.1复用，不是更早版</td></tr>
+<tr><td>3MF</td><td>4张正式板＋2张试装板</td><td>独立回读数量与位置；正式18件，平面投影不重叠</td></tr>
+</tbody></table>
+
+<p>孔周37.44 mm²是垫圈与打印座名义重叠面积，<strong>不是</strong>尼龙垫圈允许承压、弯曲挠度或额定载荷。大范围位置、局部孔偏差和工具检查并未穷举所有组合；打印收缩、实际孔斜度与任意PCB轮廓不包含在这些离散检查里。</p>
+<h2>3. 相邻天线与手工装配</h2>
+<p>工具检查含占位 PCB，安装板 M4 螺钉布置在后缘内侧，避免螺丝刀必须穿过自己的天线板。四孔尼龙件建议在台面先装，因此不依赖手在狭窄中央空间内拿住四个小螺母。安装板背面的螺母通道开放，未把可变孔位重新锁死。</p>
+<p>采用已知阶段顺序不代表任意顺序都可装。底座底部螺钉须先装再锚固，下框结构须先锁再装上框。不能声称上层带载时仍可自由维修下层。</p>
+<h2>4. 尚未验证</h2>
+<p>未执行 Bambu Studio 实际切片、支撑生成、打印首件、有限元分析、夹紧力／拉脱力、长期蠕变、跌落、风载或RF性能测试。没有额定承载数值，没有保证任意硬度尼龙或任意线径均兼容。实际孔径和孔组相对下缘／后缘仍需实物核对。</p>
+<p><strong>下一步只放行小样／单副首装：</strong>T01自然穿孔；实际P07落座范围匹配；所有螺母／垫圈有正确接触；下托不悬空；PCB不弯；轻微扰动后无滑转；下游拉线不传到SMA。通过后才复制四路。使用过程中按观察结果决定复紧，不给出没有试验依据的周期和扭矩。</p>
+<h2>5. 数据与复现</h2>
+<table>
+<thead><tr><th>文件</th><th>内容</th></tr></thead>
+<tbody>
+<tr><td><a href="validation/geometry.json">geometry.json</a></td><td>网格、数量、尺寸、实体体积</td></tr>
+<tr><td><a href="validation/fasteners.json">fasteners.json</a></td><td>40组螺钉的名义轴向连接</td></tr>
+<tr><td><a href="validation/audit.json">audit.json</a></td><td>孔位余量、位置、工具、落入与堆叠</td></tr>
+<tr><td><a href="validation/assembly_stages.json">assembly_stages.json</a></td><td>原结构工具、下夹入口、螺母入口、STEP复用</td></tr>
+<tr><td><a href="validation/cable_route.json">cable_route.json</a></td><td>4mm示例线径路线</td></tr>
+<tr><td><a href="validation/plates.json">plates.json</a></td><td>实际3MF回读与投影间距</td></tr>
+</tbody></table>
+<p>完整结构 STL 实体体积约 841.7 cm³；几何体积不等于实际耗材。请勿把本报告的“0个几何失败项”转述成“已通过工程认证”。</p>
+
+</main></body></html>

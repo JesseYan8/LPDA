@@ -1,0 +1,587 @@
+{
+  "scope": "Nominal BREP, assembly motions and analytical stack-ups; no physical test or FEA.",
+  "failures": [],
+  "final_interferences": [],
+  "cassette_compensation_9_poses": [
+    {
+      "dx_mm": -10.0,
+      "dz_mm": -18.0,
+      "hits": []
+    },
+    {
+      "dx_mm": -10.0,
+      "dz_mm": 0.0,
+      "hits": []
+    },
+    {
+      "dx_mm": -10.0,
+      "dz_mm": 18.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 0.0,
+      "dz_mm": -18.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 0.0,
+      "dz_mm": 0.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 0.0,
+      "dz_mm": 18.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 10.0,
+      "dz_mm": -18.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 10.0,
+      "dz_mm": 0.0,
+      "hits": []
+    },
+    {
+      "dx_mm": 10.0,
+      "dz_mm": 18.0,
+      "hits": []
+    }
+  ],
+  "M3_local_float_36_poses": [
+    {
+      "hole": 0,
+      "offset": [
+        -0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        -0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        -0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.0,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.0,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 0,
+      "offset": [
+        0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        -0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        -0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        -0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.0,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.0,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 1,
+      "offset": [
+        0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        -0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        -0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        -0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.0,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.0,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 2,
+      "offset": [
+        0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        -0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        -0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        -0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.0,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.0,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.8,
+        -0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.8,
+        0.0
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    },
+    {
+      "hole": 3,
+      "offset": [
+        0.8,
+        0.8
+      ],
+      "solid_overlap_mm3": 0.0,
+      "rear_washer_bearing_mm2": 37.436
+    }
+  ],
+  "minimum_rear_washer_bearing_mm2": 37.43565858160354,
+  "driver_envelopes": [
+    {
+      "type": "M4 adapter",
+      "angle": 0,
+      "x": 80.0,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 0,
+      "x": 110.0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 0,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 90,
+      "x": 80.0,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 90,
+      "x": 110.0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 90,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 90,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 90,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 90,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 180,
+      "x": 80.0,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 180,
+      "x": 110.0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 180,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 180,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 180,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 180,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 270,
+      "x": 80.0,
+      "hits": []
+    },
+    {
+      "type": "M4 adapter",
+      "angle": 270,
+      "x": 110.0,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 270,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 270,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 270,
+      "hits": []
+    },
+    {
+      "type": "M3 nylon",
+      "angle": 270,
+      "hits": []
+    }
+  ],
+  "cassette_drop_in": [
+    {
+      "name": "cassette_0",
+      "motion": "Z down, 5 mm sampling, lower jaw open/no upper bolts",
+      "bad": []
+    }
+  ],
+  "nylon_M3x25_six_thicknesses": [
+    {
+      "pcb_mm": 0.8,
+      "grip_mm": 20.7,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 4.300000000000001,
+      "full_nut": true
+    },
+    {
+      "pcb_mm": 1.0,
+      "grip_mm": 20.9,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 4.100000000000001,
+      "full_nut": true
+    },
+    {
+      "pcb_mm": 1.6,
+      "grip_mm": 21.5,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 3.5,
+      "full_nut": true
+    },
+    {
+      "pcb_mm": 2.0,
+      "grip_mm": 21.9,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 3.1000000000000014,
+      "full_nut": true
+    },
+    {
+      "pcb_mm": 3.0,
+      "grip_mm": 22.9,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 2.1000000000000014,
+      "full_nut": true
+    },
+    {
+      "pcb_mm": 4.0,
+      "grip_mm": 23.9,
+      "bolt_mm": 25,
+      "tip_beyond_mm": 1.1000000000000014,
+      "full_nut": true
+    }
+  ],
+  "whole_pattern_installation_envelope_mm": {
+    "center_radial_from_rear_stop": [
+      24.0,
+      44.0
+    ],
+    "center_height_above_lower_seat": [
+      98.0,
+      134.0
+    ],
+    "warning": "Only within this envelope can the present linkage fit without regenerating it. Do not lift PCB off lower seat to force hole alignment."
+  },
+  "unchanged_reuse_ids": [
+    "P02_lower_half",
+    "P03_fixed_mast",
+    "P04_anchor_base",
+    "P05_pressure_shoe",
+    "P06_M4_knob"
+  ],
+  "not_tested": [
+    "printed tolerances",
+    "Bambu Studio slicing/support generation",
+    "physical first fit",
+    "creep/strength/pull test",
+    "actual cable bend radius",
+    "RF matching/patterns",
+    "true PCB hole diameter and edge-to-pattern location"
+  ]
+}

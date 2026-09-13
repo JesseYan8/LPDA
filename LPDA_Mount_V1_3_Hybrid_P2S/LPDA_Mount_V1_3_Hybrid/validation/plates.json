@@ -1,0 +1,473 @@
+[
+  {
+    "file": "FULL_01_LOWER_REUSED.3mf",
+    "objects": 2,
+    "min_footprint_gap_mm": 5.599998474121065,
+    "bbox_mm": [
+      [
+        6.0,
+        6.0,
+        0.0
+      ],
+      [
+        247.39999,
+        232.39999,
+        28.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "P02_lower_half_1",
+        "bbox_mm": [
+          [
+            6.0,
+            6.0,
+            0.0
+          ],
+          [
+            200.4,
+            200.4,
+            28.0
+          ]
+        ]
+      },
+      {
+        "name": "P02_lower_half_2",
+        "bbox_mm": [
+          [
+            53.0,
+            38.0,
+            0.0
+          ],
+          [
+            247.4,
+            232.4,
+            28.0
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "FULL_02_UPPER.3mf",
+    "objects": 2,
+    "min_footprint_gap_mm": 15.600000381469727,
+    "bbox_mm": [
+      [
+        6.0,
+        6.0,
+        0.0
+      ],
+      [
+        218.39999,
+        203.39999,
+        38.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "P01_upper_carrier_1",
+        "bbox_mm": [
+          [
+            6.0,
+            6.0,
+            0.0
+          ],
+          [
+            171.4,
+            171.4,
+            38.0
+          ]
+        ]
+      },
+      {
+        "name": "P01_upper_carrier_2",
+        "bbox_mm": [
+          [
+            53.0,
+            38.0,
+            0.0
+          ],
+          [
+            218.4,
+            203.4,
+            38.0
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "FULL_04_CASSETTES.3mf",
+    "objects": 4,
+    "min_footprint_gap_mm": 6.1699981689453125,
+    "bbox_mm": [
+      [
+        6.0,
+        6.0,
+        0.0
+      ],
+      [
+        247.83,
+        170.3,
+        15.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "P07_four_hole_cassette_1",
+        "bbox_mm": [
+          [
+            6.0,
+            6.0,
+            0.0
+          ],
+          [
+            123.83,
+            84.3,
+            15.0
+          ]
+        ]
+      },
+      {
+        "name": "P07_four_hole_cassette_2",
+        "bbox_mm": [
+          [
+            130.0,
+            6.0,
+            0.0
+          ],
+          [
+            247.83,
+            84.3,
+            15.0
+          ]
+        ]
+      },
+      {
+        "name": "P07_four_hole_cassette_3",
+        "bbox_mm": [
+          [
+            6.0,
+            92.0,
+            0.0
+          ],
+          [
+            123.83,
+            170.3,
+            15.0
+          ]
+        ]
+      },
+      {
+        "name": "P07_four_hole_cassette_4",
+        "bbox_mm": [
+          [
+            130.0,
+            92.0,
+            0.0
+          ],
+          [
+            247.83,
+            170.3,
+            15.0
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "FULL_03_REUSED_MAST_BASE_SMALL.3mf",
+    "objects": 10,
+    "min_footprint_gap_mm": 5.0,
+    "bbox_mm": [
+      [
+        6.0,
+        6.0,
+        0.0
+      ],
+      [
+        249.0,
+        249.0,
+        200.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "P04_anchor_base_1",
+        "bbox_mm": [
+          [
+            6.0,
+            6.0,
+            0.0
+          ],
+          [
+            154.0,
+            154.0,
+            16.0
+          ]
+        ]
+      },
+      {
+        "name": "P03_fixed_mast_1",
+        "bbox_mm": [
+          [
+            125.0,
+            125.0,
+            0.0
+          ],
+          [
+            249.0,
+            249.0,
+            200.0
+          ]
+        ]
+      },
+      {
+        "name": "P05_pressure_shoe_1",
+        "bbox_mm": [
+          [
+            7.0,
+            7.0,
+            0.0
+          ],
+          [
+            27.0,
+            27.0,
+            18.0
+          ]
+        ]
+      },
+      {
+        "name": "P05_pressure_shoe_2",
+        "bbox_mm": [
+          [
+            33.0,
+            7.0,
+            0.0
+          ],
+          [
+            53.0,
+            27.0,
+            18.0
+          ]
+        ]
+      },
+      {
+        "name": "P05_pressure_shoe_3",
+        "bbox_mm": [
+          [
+            103.0,
+            7.0,
+            0.0
+          ],
+          [
+            123.0,
+            27.0,
+            18.0
+          ]
+        ]
+      },
+      {
+        "name": "P05_pressure_shoe_4",
+        "bbox_mm": [
+          [
+            129.0,
+            7.0,
+            0.0
+          ],
+          [
+            149.0,
+            27.0,
+            18.0
+          ]
+        ]
+      },
+      {
+        "name": "P06_M4_knob_1",
+        "bbox_mm": [
+          [
+            225.0,
+            29.0,
+            0.0
+          ],
+          [
+            248.88,
+            52.88,
+            6.4
+          ]
+        ]
+      },
+      {
+        "name": "P06_M4_knob_2",
+        "bbox_mm": [
+          [
+            117.0,
+            33.0,
+            0.0
+          ],
+          [
+            140.88,
+            56.88,
+            6.4
+          ]
+        ]
+      },
+      {
+        "name": "P06_M4_knob_3",
+        "bbox_mm": [
+          [
+            147.0,
+            33.0,
+            0.0
+          ],
+          [
+            170.88,
+            56.88,
+            6.4
+          ]
+        ]
+      },
+      {
+        "name": "P06_M4_knob_4",
+        "bbox_mm": [
+          [
+            177.0,
+            33.0,
+            0.0
+          ],
+          [
+            200.88,
+            56.88,
+            6.4
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "FIRST_FIT_CASSETTE_NOT_LOAD_TEST.3mf",
+    "objects": 4,
+    "min_footprint_gap_mm": 14.169998168945312,
+    "bbox_mm": [
+      [
+        8.0,
+        8.0,
+        0.0
+      ],
+      [
+        208.0,
+        140.0,
+        15.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "P07_four_hole_cassette_1",
+        "bbox_mm": [
+          [
+            8.0,
+            8.0,
+            0.0
+          ],
+          [
+            125.83,
+            86.3,
+            15.0
+          ]
+        ]
+      },
+      {
+        "name": "T01_hole_pattern",
+        "bbox_mm": [
+          [
+            140.0,
+            8.0,
+            0.0
+          ],
+          [
+            181.83,
+            53.3,
+            2.0
+          ]
+        ]
+      },
+      {
+        "name": "T03_carrier_fit",
+        "bbox_mm": [
+          [
+            8.0,
+            106.0,
+            0.0
+          ],
+          [
+            78.0,
+            140.0,
+            6.0
+          ]
+        ]
+      },
+      {
+        "name": "T02_M4_slot_fit",
+        "bbox_mm": [
+          [
+            140.0,
+            78.0,
+            0.0
+          ],
+          [
+            208.0,
+            108.0,
+            6.0
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "TINY_HOLE_PATTERN_ONLY.3mf",
+    "objects": 1,
+    "min_footprint_gap_mm": null,
+    "bbox_mm": [
+      [
+        10.0,
+        10.0,
+        0.0
+      ],
+      [
+        51.83,
+        55.3,
+        2.0
+      ]
+    ],
+    "geometry_only": true,
+    "no_gcode": true,
+    "entries": [
+      {
+        "name": "T01_hole_pattern",
+        "bbox_mm": [
+          [
+            10.0,
+            10.0,
+            0.0
+          ],
+          [
+            51.83,
+            55.3,
+            2.0
+          ]
+        ]
+      }
+    ]
+  }
+]

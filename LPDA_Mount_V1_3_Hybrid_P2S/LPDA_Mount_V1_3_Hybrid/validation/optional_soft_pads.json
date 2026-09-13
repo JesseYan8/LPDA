@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S01_lower_face_20x20x1",
+    "qty": 8,
+    "bbox_mm": [
+      20.0,
+      20.0,
+      1.0
+    ],
+    "watertight": true
+  },
+  {
+    "id": "S02_lower_seat_18x14x2",
+    "qty": 4,
+    "bbox_mm": [
+      18.0,
+      14.0,
+      2.0
+    ],
+    "watertight": true
+  },
+  {
+    "id": "S03_hole_land_OD14_T1",
+    "qty": 16,
+    "bbox_mm": [
+      14.0,
+      13.995648942887783,
+      1.0
+    ],
+    "watertight": true
+  },
+  {
+    "id": "S04_cable_pad_22x8x1",
+    "qty": 4,
+    "bbox_mm": [
+      22.0,
+      8.0,
+      1.0
+    ],
+    "watertight": true
+  }
+]

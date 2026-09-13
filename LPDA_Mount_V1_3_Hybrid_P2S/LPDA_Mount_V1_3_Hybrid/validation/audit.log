@@ -1,0 +1,6 @@
+FINAL []
+POSES [{'dx_mm': -10.0, 'dz_mm': -18.0, 'hits': []}, {'dx_mm': -10.0, 'dz_mm': 0.0, 'hits': []}, {'dx_mm': -10.0, 'dz_mm': 18.0, 'hits': []}, {'dx_mm': 0.0, 'dz_mm': -18.0, 'hits': []}, {'dx_mm': 0.0, 'dz_mm': 0.0, 'hits': []}, {'dx_mm': 0.0, 'dz_mm': 18.0, 'hits': []}, {'dx_mm': 10.0, 'dz_mm': -18.0, 'hits': []}, {'dx_mm': 10.0, 'dz_mm': 0.0, 'hits': []}, {'dx_mm': 10.0, 'dz_mm': 18.0, 'hits': []}]
+M3 floats bad [] min bearing 37.43565858160354
+DRIVER BAD []
+INSERT [{'name': 'cassette_0', 'motion': 'Z down, 5 mm sampling, lower jaw open/no upper bolts', 'bad': []}]
+TOTAL FAILURE RECORDS 0

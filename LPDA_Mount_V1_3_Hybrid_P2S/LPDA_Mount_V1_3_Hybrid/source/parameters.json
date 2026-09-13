@@ -1,0 +1,18 @@
+{
+  "edge_gap_radiation_mm": 21.66,
+  "edge_gap_transverse_mm": 26.60,
+  "assumed_pcb_hole_diameter_mm": 3.0,
+  "window_side_mm": 5.2,
+  "window_corner_radius_mm": 1.0,
+  "local_hole_float_xy_mm": 0.8,
+  "cassette_center_x_mm": 166.0,
+  "cassette_center_z_mm": 174.0,
+  "installation_float_x_mm": 10.0,
+  "installation_float_z_mm": 18.0,
+  "pcb_preview_thickness_mm": 1.6,
+  "pcb_preview_length_mm": 240.0,
+  "pcb_preview_height_mm": 232.0,
+  "face_pad_thickness_mm": 1.0,
+  "upper_frame_seat_z_mm": 182.0,
+  "nylon_screw_length_mm": 25.0
+}

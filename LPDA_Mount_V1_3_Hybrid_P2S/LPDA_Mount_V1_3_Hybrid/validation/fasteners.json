@@ -1,0 +1,490 @@
+[
+  {
+    "name": "base_-24_-24",
+    "length_mm": 20,
+    "head": [
+      -24,
+      -24,
+      4.0
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "angle": 0,
+    "z_offset": 0,
+    "hexhead": false,
+    "nut_start_mm": 12.0,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 4.8
+  },
+  {
+    "name": "base_-24_24",
+    "length_mm": 20,
+    "head": [
+      -24,
+      24,
+      4.0
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "angle": 0,
+    "z_offset": 0,
+    "hexhead": false,
+    "nut_start_mm": 12.0,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 4.8
+  },
+  {
+    "name": "base_24_-24",
+    "length_mm": 20,
+    "head": [
+      24,
+      -24,
+      4.0
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "angle": 0,
+    "z_offset": 0,
+    "hexhead": false,
+    "nut_start_mm": 12.0,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 4.8
+  },
+  {
+    "name": "base_24_24",
+    "length_mm": 20,
+    "head": [
+      24,
+      24,
+      4.0
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "angle": 0,
+    "z_offset": 0,
+    "hexhead": false,
+    "nut_start_mm": 12.0,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 4.8
+  },
+  {
+    "name": "frame_40_0",
+    "length_mm": 20,
+    "head": [
+      54,
+      -16,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 52.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_40_1",
+    "length_mm": 20,
+    "head": [
+      -16,
+      54,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 52.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_40_2",
+    "length_mm": 20,
+    "head": [
+      -54,
+      16,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 52.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_40_3",
+    "length_mm": 20,
+    "head": [
+      16,
+      -54,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 52.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "clamp_40_0",
+    "length_mm": 25,
+    "head": [
+      147,
+      30.6,
+      16
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "angle": 0,
+    "z_offset": 52.0,
+    "hexhead": true,
+    "nut_start_mm": 15.100000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 6.699999999999998
+  },
+  {
+    "name": "clamp_40_90",
+    "length_mm": 25,
+    "head": [
+      147,
+      30.6,
+      16
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "angle": 90,
+    "z_offset": 52.0,
+    "hexhead": true,
+    "nut_start_mm": 15.100000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 6.699999999999998
+  },
+  {
+    "name": "clamp_40_180",
+    "length_mm": 25,
+    "head": [
+      147,
+      30.6,
+      16
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "angle": 180,
+    "z_offset": 52.0,
+    "hexhead": true,
+    "nut_start_mm": 15.100000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 6.699999999999998
+  },
+  {
+    "name": "clamp_40_270",
+    "length_mm": 25,
+    "head": [
+      147,
+      30.6,
+      16
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "angle": 270,
+    "z_offset": 52.0,
+    "hexhead": true,
+    "nut_start_mm": 15.100000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 6.699999999999998
+  },
+  {
+    "name": "frame_170_0",
+    "length_mm": 20,
+    "head": [
+      26,
+      -12,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 182.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_170_1",
+    "length_mm": 20,
+    "head": [
+      -12,
+      26,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 182.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_170_2",
+    "length_mm": 20,
+    "head": [
+      -26,
+      12,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 182.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "frame_170_3",
+    "length_mm": 20,
+    "head": [
+      12,
+      -26,
+      8.8
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "angle": 0,
+    "z_offset": 182.0,
+    "hexhead": false,
+    "nut_start_mm": 15.600000000000001,
+    "engagement_mm": 3.1999999999999993,
+    "tip_past_nut_mm": 1.1999999999999984
+  },
+  {
+    "name": "adapter_0_0",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "adapter_0_1",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "nylon_0_0",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_0_1",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_0_2",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_0_3",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "adapter_90_0",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "adapter_90_1",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "nylon_90_0",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_90_1",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_90_2",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_90_3",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "adapter_180_0",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "adapter_180_1",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "nylon_180_0",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_180_1",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_180_2",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_180_3",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "adapter_270_0",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "adapter_270_1",
+    "diameter_mm": 4,
+    "length_mm": 20,
+    "engagement_mm": 3.2,
+    "tip_past_nut_mm": 3.2
+  },
+  {
+    "name": "nylon_270_0",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_270_1",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_270_2",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  },
+  {
+    "name": "nylon_270_3",
+    "diameter_mm": 3,
+    "length_mm": 25,
+    "engagement_mm": 2.4,
+    "tip_past_nut_mm": 3.4999999999999996
+  }
+]

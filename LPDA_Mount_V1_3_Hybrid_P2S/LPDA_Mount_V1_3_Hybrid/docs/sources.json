@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-12",
+  "scope": "Public product/material references; not local-stock or structural certification.",
+  "sources": [
+    {
+      "title": "P2S 官方规格，打印范围",
+      "url": "https://bambulab.com/en/p2s/specs"
+    },
+    {
+      "title": "Essentra M3×0.5×25 尼龙盘头螺钉，50M030050P025",
+      "url": "https://www.essentracomponents.com/en-us/p/plastic-pan-head-screws/50m030050p025"
+    },
+    {
+      "title": "Home Depot：Hillman 3990，M4×20 盘头",
+      "url": "https://www.homedepot.com/p/Hillman-M4-0-7-x-20-mm-Phillips-Pan-Head-Machine-Screws-15-Pack-3990/204794789"
+    },
+    {
+      "title": "Home Depot：Hillman 4156，M4×25 外六角；完整螺纹段待实物确认",
+      "url": "https://www.homedepot.com/p/The-Hillman-Group-M4-0-70-x-25-mm-External-Hex-Hex-Head-Cap-Screw-25-Pack-4156/204794751"
+    },
+    {
+      "title": "Home Depot：Hillman 4044，M4 六角螺母",
+      "url": "https://www.homedepot.com/p/Hillman-Stainless-Metric-Hex-Nut-M4-0-70-4044/204801217"
+    },
+    {
+      "title": "Home Depot：Hillman 4118，M4 平垫圈",
+      "url": "https://www.homedepot.com/p/Hillman-Stainless-Steel-Metric-Flat-Washer-M4-Screw-Size-4118/204801237"
+    },
+    {
+      "title": "Home Depot：VELCRO 91141 窄尾软绑带",
+      "url": "https://www.homedepot.com/p/VELCRO-8-in-x-1-4-in-One-Wrap-Ties-Black-25-Count-91141/203307537"
+    },
+    {
+      "title": "Essentra 塑料六角螺母系列；采购 M3-0.5，核对外形",
+      "url": "https://www.essentracomponents.com/en-us/p/standard-hex-nuts-plastic"
+    },
+    {
+      "title": "Essentra SR1940 / DIN 9021 大外径垫圈系列；M3、OD9、0.8 mm，非美国库存声明",
+      "url": "https://www.essentracomponents.co.th/en-th/fasteners-and-fixings/washers-spacers-and-bushes/sr1940-washers-din-9021"
+    },
+    {
+      "title": "Prusa PETG 材料指导：支架用途与桥接注意",
+      "url": "https://help.prusa3d.com/article/petg_2059"
+    },
+    {
+      "title": "Toray 尼龙机械特性：载荷、温度与吸湿影响",
+      "url": "https://www.plastics.toray/technical/amilan/tec_001.html"
+    }
+  ]
+}
